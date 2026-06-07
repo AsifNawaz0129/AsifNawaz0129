@@ -1,20 +1,20 @@
-# ⚡ Asif Nawaz
-### Senior QA Automation Engineer | Senior SQA | SDET
+# Hi there! 👋 I'm Asif Nawaz
+### Senior QA Automation Engineer | SDET
 
-> *"Architecting resilient, AI-augmented quality frameworks that accelerate releases without compromising stability."*
+I'm a quality engineering leader who genuinely loves breaking software just so we can build it back stronger. I specialize in turning slow, flaky manual testing processes into fast, reliable automation pipelines. [cite_start]Currently, I'm based in London leading QA for major product releases, where I coordinate automated testing across multiple feature streams and give the final green light for deployment[cite: 7, 8]. 
 
-I am a quality engineering leader focused on building end-to-end automation strategies that bridge the gap between development and continuous delivery. Currently, I lead QA across major product releases, coordinating automated testing across multiple feature streams and providing final deployment sign-off.
+My goal is simple: help teams ship top-tier software faster, without the deployment anxiety.
 
 ---
 
-### 🚀 Engineering Impact & Strategic Value
+### 🚀 What I Do
 
-* **AI-Augmented QA:** Leverage AI tools (ChatGPT, Testim, Maestro) to accelerate test creation and maintain automation stability during aggressive UI iteration cycles.
-* **Pipeline Optimization:** Stabilized automation suites through rigorous refactoring and synchronization improvements, cutting CI pipeline failures by ~60%.
-* **Velocity Scaling:** Slashed regression testing time by 40-50% by isolating high-risk scenarios and expanding automated coverage.
-* **Cross-Platform Delivery:** Architect and execute 200+ automated e2e test cases across comprehensive web and mobile regression suites.
-* **Mentorship & Leadership:** Direct QA team members on advanced automation practices, test design techniques, and enterprise testing standards.
-
+* **Architecting Scalable Frameworks:** I design and build robust, end-to-end automation frameworks from the ground up for both web and mobile applications (iOS/Android). Using tools like Playwright, Cypress, and Appium, I've successfully expanded test coverage by 50%+ across complex product modules.
+* **API & Backend Validation:** UI testing is only half the battle. I rigorously validate APIs, microservices, and databases using Postman and Swagger to ensure seamless integration and catch backend bugs long before they surface on the frontend.
+* **Performance & Load Testing:** I don't just ensure the app works; I ensure it scales. I build out performance test suites using JMeter to stress-test our infrastructure, guaranteeing our applications remain highly responsive even under heavy user load.
+* **Fixing Flaky Pipelines:** I stabilized our automation test suite by refactoring unstable tests and integrating them deeply into CI/CD pipelines (GitLab/GitHub Actions), successfully slashing CI pipeline failures by ~60%.
+* **Leading QA Strategy & Teams:** I direct cross-functional QA efforts across multiple feature streams. From mentoring QA engineers and shaping Agile testing strategies to holding the final authority on deployment sign-offs, my core focus is elevating the engineering culture and guaranteeing elite product quality.
+* **AI-Driven Testing:** I actively leverage AI tools (ChatGPT, Testim, and Maestro) to accelerate test creation, intelligently identify high-risk scenarios, and adapt to frequent UI changes without breaking the build.
 ---
 
 ## Technologies & Tools
