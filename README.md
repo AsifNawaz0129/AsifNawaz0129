@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Asif Nawaz
-### Senior QA Automation Engineer | SDET
+### Senior SQA | Senior QA Automation Engineer | SDET
 
-I'm a quality engineering leader who genuinely loves breaking software just so we can build it back stronger. I specialize in turning slow, flaky manual testing processes into fast, reliable automation pipelines. [cite_start]Currently, I'm based in London leading QA for major product releases, where I coordinate automated testing across multiple feature streams and give the final green light for deployment[cite: 7, 8]. 
+I'm a quality engineering leader who genuinely loves breaking software just so we can build it back stronger. I specialize in turning slow, flaky manual testing processes into fast, reliable automation pipelines. Currently, I work remotely for a UK-based company leading QA for major product releases, where I coordinate automated testing across multiple feature streams and give the final green light for deployment.
 
 My goal is simple: help teams ship top-tier software faster, without the deployment anxiety.
 
@@ -15,6 +15,7 @@ My goal is simple: help teams ship top-tier software faster, without the deploym
 * **Fixing Flaky Pipelines:** I stabilized our automation test suite by refactoring unstable tests and integrating them deeply into CI/CD pipelines (GitLab/GitHub Actions), successfully slashing CI pipeline failures by ~60%.
 * **Leading QA Strategy & Teams:** I direct cross-functional QA efforts across multiple feature streams. From mentoring QA engineers and shaping Agile testing strategies to holding the final authority on deployment sign-offs, my core focus is elevating the engineering culture and guaranteeing elite product quality.
 * **AI-Driven Testing:** I actively leverage AI tools (ChatGPT, Testim, and Maestro) to accelerate test creation, intelligently identify high-risk scenarios, and adapt to frequent UI changes without breaking the build.
+
 ---
 
 ## Technologies & Tools
@@ -54,7 +55,6 @@ My goal is simple: help teams ship top-tier software faster, without the deploym
 * **ISTQB®** Certified Tester - Foundation Level
 * **Google** Python Certification
 * **Tricentis** Testim Fundamentals
-* **Atlassian** Jira Fundamentals Badge
 
 ---
 
